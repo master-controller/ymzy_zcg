@@ -1,0 +1,21 @@
+{
+    "name": "ymzy/common",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Ymzy\\Util\\": "./src/"
+        },
+        "files": [
+            "./helper.php"
+        ]
+    },
+    "authors": [
+        {
+            "name": "zcg",
+            "email": "1506411530@qq.com"
+        }
+    ],
+    "minimum-stability": "beta",
+    "require": {}
+}
