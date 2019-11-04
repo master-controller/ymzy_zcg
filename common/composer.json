@@ -1,5 +1,6 @@
 {
     "name": "ymzy/common",
+    "description": "ymzy公共库",
     "type": "library",
     "license": "MIT",
     "autoload": {
