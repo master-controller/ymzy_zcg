@@ -1,5 +1,5 @@
 {
-    "name": "ymzy/common",
+    "name": "master-controller/ymzy_zcg",
     "description": "ymzy公共库",
     "type": "library",
     "license": "MIT",
@@ -17,6 +17,6 @@
             "email": "1506411530@qq.com"
         }
     ],
-
+    "minimum-stability": "dev",
     "require": {}
 }
