@@ -1,7 +1,6 @@
 {
     "name": "master-controller/ymzy_zcg",
     "description": "ymzy公共库",
-    "type": "library",
     "license": "MIT",
     "autoload": {
         "psr-4": {
